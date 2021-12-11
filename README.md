@@ -1,7 +1,5 @@
 # CSS-in-JS-Styled-Components
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Vamos aplicar o conceito de CSS in JS utilizando React-Native e a lib Styled-Components.
 
 ## 💻 Pré-requisitos
