@@ -11,9 +11,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `Expo`
 * Você leu `https://medium.com/@dev-MarcosVinicius/transforme-a-maneira-como-voc%C3%AA-cria-componentes-css-in-js-835526b1b930`.
 
-## 🚀 Instalando <css_in_js_styled_components>
+## 🚀 Instalando
 
-Para instalar o CSS-in-JS-Styled-Components, siga estas etapas:
+Para instalar o projeto, siga estas etapas:
 
 ```
 npm i
