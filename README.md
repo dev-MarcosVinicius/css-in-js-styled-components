@@ -13,7 +13,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <css_in_js_styled_components>
 
-Para instalar o <css_in_js_styled_components>, siga estas etapas:
+Para instalar o CSS-in-JS-Styled-Components, siga estas etapas:
 
 ```
 npm i
