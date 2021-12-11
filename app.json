@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "css-in-js-styled-components",
+    "slug": "css-in-js-styled-components",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "css-in-js-styled-components"
+}
