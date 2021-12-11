@@ -1,25 +1,21 @@
-import { ThemeProvider } from 'styled-components/native';
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
 
-import { Button } from './src/components/Form/Button';
+// Importações do component estilizado
+import { ThemeProvider } from 'styled-components/native';
+import { Button } from './src/styled-components/Button';
+import { Form } from './src/styled-components/Form/styles';
 import theme from './src/global/styles/theme';
+
+// Impotações do component não estilizado
+import { StyleSheet, View } from 'react-native';
 
 export default function App() {
   return (
+    // Exibição do fomulario estilizado
     <ThemeProvider theme={theme}>
-      <View style={styles.container}>
+      <Form>
         <Button title="Enviar Formulario"/>
-      </View>
+      </Form>
     </ThemeProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
